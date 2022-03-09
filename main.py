@@ -104,6 +104,7 @@ if __name__ == '__main__':
              [0, 7, 0, 3, 0, 0, 0, 1, 2],
              [1, 2, 0, 0, 0, 7, 4, 0, 0],
              [0, 4, 9, 2, 0, 6, 0, 0, 7]]
+
     printBoardConsole(board)
     solve_board(board)
     printBoardConsole(board)
