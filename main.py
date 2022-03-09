@@ -108,5 +108,6 @@ if __name__ == '__main__':
     printBoardConsole(board)
     solve_board(board)
     printBoardConsole(board)
+    print("VVVV")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
